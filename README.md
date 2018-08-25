@@ -5,6 +5,9 @@ hrSlider is a simple Image slider which is very easy to use.
 ## Usage
 Add the slider.js file.
 
+### Prerequisites
+jQuery
+
 ### html
 ```
 <div id="hrSlider">
